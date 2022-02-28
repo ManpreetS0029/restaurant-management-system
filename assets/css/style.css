@@ -1,0 +1,57 @@
+input[type=text] , input[type=email] , input[type=password] , input[type=number]
+{
+
+	border-radius: 18px ;
+
+}
+
+select
+{
+	border-radius: 18px !important;
+}
+
+
+.selectOptions
+{
+	border-radius: 18px ;
+}
+
+#rest_name_err, #rest_address_err, #rest_contact_no_err, #select_currency_err, #select_timezone_err, #email_err, #password_err , #category_name_err
+{
+	background-color: #DE7E5D;
+	color: #ffffff;
+	border-radius:  15px;
+	padding:  5px;
+}
+
+.bg
+{
+	padding: 20px;
+	border-radius: 20px;
+	background-color:#ffffff;
+}
+
+#hidden_div
+{
+	display: none;
+}
+
+.tbl-grid
+{
+	background-color: #A9A9A9; 
+	color: #FFFFFF;
+	height: 120px;
+}
+
+.tbl-grid:hover
+{
+	background-color: #808080;
+	color: #FFFFFF;
+}
+
+a.link:link
+{
+	color: #FFFFFF;
+}
+
+

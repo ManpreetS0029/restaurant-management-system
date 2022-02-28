@@ -1,0 +1,138 @@
+input[type=text] , input[type=email] , input[type=password]
+{
+
+	border-radius: 18px ;
+
+}
+
+select
+{
+	border-radius: 18px !important;
+}
+
+a
+{
+	text-decoration: none !important;
+}
+
+
+.selectOptions
+{
+	border-radius: 18px ;
+}
+
+#rest_name_err, #rest_address_err, #rest_contact_no_err, #select_currency_err, #select_timezone_err, #email_err, #password_err , #category_name_err
+{
+	color: #FF0000;
+}
+
+.bg
+{
+	padding: 20px;
+	border-radius: 20px;
+	background-color:#ffffff;
+}
+
+.bg-dash
+{
+	padding: 20px;
+	background-color:#ffffff;
+}
+
+#hidden_div
+{
+	display: none;
+}
+
+.tb-grid:hover
+{
+	background-color: #00ffea !important;
+	color: #000000 !important;
+}
+
+.dash-grid
+{
+	margin-left: 38px;
+}
+
+.cat
+{
+	background-color: #ffffff;
+	color: #FF0000;
+	padding: 35px;
+	text-align: center;
+	border-radius: 5px;
+	width: 220px;
+
+
+}
+
+.tbl
+{
+	background-color: #ffffff;
+	color: #0000FF;
+	padding: 35px;
+	text-align: center;
+	border-radius: 5px;
+	width: 220px;
+
+}
+
+.tax
+{
+	background-color: #ffffff;
+	color: #FD349C;
+	padding: 35px;
+	text-align: center;
+	border-radius: 5px;
+	width: 220px;
+
+}
+
+.product
+{
+	background-color: #ffffff;
+	color: #00FF00;
+	padding: 35px;
+	text-align: center;
+	border-radius: 5px;
+	width: 220px;
+
+}
+
+.user
+{
+	background-color: #ffffff;
+	color: #FFA500;
+	padding: 35px;
+	text-align: center;
+	border-radius: 5px;
+	width: 220px;
+
+}
+
+.tbl-grid-dash
+{
+	background-color: #A9A9A9;
+	color: #FFFFFF;
+	height: 100px;
+}
+
+
+.tbl-grid
+{
+	background-color: #A9A9A9;
+	color: #FFFFFF;
+	height: 100px;
+}
+
+.tbl-grid:hover
+{
+	background-color: #808080;
+	color: #FFFFFF;
+}
+
+a.link:link
+{
+	color: #FFFFFF;
+}
