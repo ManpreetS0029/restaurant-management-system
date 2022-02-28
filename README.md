@@ -1,4 +1,4 @@
-#RESTAURANT MANAGEMENT SYSTEM IN PHP
+# RESTAURANT MANAGEMENT SYSTEM IN PHP
 
 Now you can manage your restaurant in few clicks with ease :)
 
