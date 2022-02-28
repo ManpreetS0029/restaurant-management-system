@@ -1,1 +1,15 @@
 RESTAURANT MANAGEMENT SYSTEM IN PHP
+
+![Opera Snapshot_2022-01-19_163409_localhost](https://user-images.githubusercontent.com/76054224/155990408-a9ac5e6a-6712-4d03-a95b-53ee34a9a9cf.png)
+![Opera Snapshot_2022-01-19_163614_localhost](https://user-images.githubusercontent.com/76054224/155990415-e5da0a11-eaa0-41c2-9247-42c665f8e0da.png)
+![Opera Snapshot_2022-01-19_163704_localhost](https://user-images.githubusercontent.com/76054224/155990417-2c99f4f4-b38a-474c-a0dc-4faebf573a15.png)
+![Opera Snapshot_2022-01-19_163742_localhost](https://user-images.githubusercontent.com/76054224/155990419-43cfd3fa-cdf7-407b-a308-c640bb731235.png)
+![Opera Snapshot_2022-01-19_163836_localhost](https://user-images.githubusercontent.com/76054224/155990421-1b5ff4b3-2773-49cc-bc4c-98716766e063.png)
+![Opera Snapshot_2022-01-19_163856_localhost](https://user-images.githubusercontent.com/76054224/155990424-f361b927-40f9-4695-9108-c52a1deeea7c.png)
+![Opera Snapshot_2022-01-19_163917_localhost](https://user-images.githubusercontent.com/76054224/155990426-c722c142-f6a5-42a5-80a0-8750f7d68de7.png)
+![Opera Snapshot_2022-01-19_163945_localhost](https://user-images.githubusercontent.com/76054224/155990428-34105e59-21b5-4a4a-9949-24e3e840416b.png)
+![Opera Snapshot_2022-01-19_164020_localhost](https://user-images.githubusercontent.com/76054224/155990430-096a9398-d3e8-4287-897e-64ca7510a2af.png)
+![Opera Snapshot_2022-01-19_164046_localhost](https://user-images.githubusercontent.com/76054224/155990433-e69a9c6e-e97a-41ea-9a5b-ba3821e26181.png)
+![Opera Snapshot_2022-01-19_164130_localhost](https://user-images.githubusercontent.com/76054224/155990436-653946f7-c733-4e74-b147-8476f5a9a201.png)
+![Opera Snapshot_2022-01-19_164149_localhost](https://user-images.githubusercontent.com/76054224/155990442-aca6970c-56d3-49d6-9be1-8f321ae4a429.png)
+![Opera Snapshot_2022-01-19_172236_localhost](https://user-images.githubusercontent.com/76054224/155990444-3cdccbcb-993f-4cfb-aeb9-6728f2fd1664.png)
